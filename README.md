@@ -12,3 +12,12 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 
 4. [Out of Sight But Not Out of Mind: An Answer Set Programming Based Online Abduction Framework for Visual Sensemaking in Autonomous Driving](https://www.ijcai.org/proceedings/2019/260), 2019 </br>
 **Summary**: The authors develop an answer set programming-based abductive reasoning framework for online sensemaking that combines knowledge representation and computer vision in an online manner to explain dynamics of traffic scenarios, particularly occlusion scenes.
+
+5. [Visual Scene Understanding for Autonomous Driving Using Semantic Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_15), 2019 </br>
+**Summary**: The paper propose a semantic segmentation model implemented as a pixel-wise classification that explains underlying real-time perception of the environment.
+
+6. [End-To-End Interpretable Neural Motion Planner](https://openaccess.thecvf.com/content_CVPR_2019/html/Zeng_End-To-End_Interpretable_Neural_Motion_Planner_CVPR_2019_paper.html), 2019 </br>
+**Summary**: The authors introduce a neural motion planner for autonomous driving in complex urban scenarios using raw LIDAR data and a HD map.
+
+7. [ I Drive - You Trust: Explaining Driving Behavior Of Autonomous Cars](https://dl.acm.org/doi/abs/10.1145/3290607.3312817?casa_token=2L1pKflGKisAAAAA:_K-4szLXrBBbdUFByQ4r3vJvABTHFdnmZ2QGTy49NhWIFJtVzUQuedpvXPIdviNLIP9x6BuUxwLl), 2019 </br>
+**Summary**: A user study is performed: The authors identify a mental model of users for determining an effective practical implementation of an explanation interface for self-driving vehicles.
