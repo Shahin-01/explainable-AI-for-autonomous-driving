@@ -21,3 +21,12 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 
 7. [ I Drive - You Trust: Explaining Driving Behavior Of Autonomous Cars](https://dl.acm.org/doi/abs/10.1145/3290607.3312817?casa_token=2L1pKflGKisAAAAA:_K-4szLXrBBbdUFByQ4r3vJvABTHFdnmZ2QGTy49NhWIFJtVzUQuedpvXPIdviNLIP9x6BuUxwLl), 2019 </br>
 **Summary**: A user study is performed: The authors identify a mental model of users for determining an effective practical implementation of an explanation interface for self-driving vehicles.
+
+8. [Explaining Autonomous Driving by Learning End-to-End Visual Attention](https://openaccess.thecvf.com/content_CVPRW_2020/html/w20/Cultrera_Explaining_Autonomous_Driving_by_Learning_End-to-End_Visual_Attention_CVPRW_2020_paper.html), 2020 </br>
+
+9. [“I’d like an Explanation for That!”Exploring Reactions to Unexpected Autonomous Driving](https://dl.acm.org/doi/abs/10.1145/3379503.3403554?casa_token=mZfjuDrG404AAAAA:pFmM2MD1wiEGbck3CRIMSjdLbhZgxOEoY4Y4HxKyBcbKFfBOpSx1HVeQSUgsU9dHSQtZBUywjZ0P)
+
+9. [Explainable Object-Induced Action Decision for Autonomous Vehicles](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Explainable_Object-Induced_Action_Decision_for_Autonomous_Vehicles_CVPR_2020_paper.html), 2020 </br>
+**Summary**: The authors propose object-induced actions with explanations for predictions of an autonomous car, and introduce a new dataset called BDD-OIA, annotated with 21 explanation templates on a set of 4 actions.
+
+
