@@ -55,4 +55,4 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 
 Detailed analysis and discussion of these studies is available is the following article:
 
-S. Atakishiyev, M. Salameh, H. Yao, & R. Goebel, (2021). Explainable artificial intelligence for autonomous driving: An overview and guide for future     research directions.[Explainable artificial intelligence for autonomous driving: An overview and guide for future research directions](https://arxiv.org/abs/2112.11561), arXiv </br> 
+S. Atakishiyev, M. Salameh, H. Yao, & R. Goebel, (2021). Explainable artificial intelligence for autonomous driving: An overview and guide for future     research directions. [Explainable artificial intelligence for autonomous driving: An overview and guide for future research directions](https://arxiv.org/abs/2112.11561), arXiv </br> 
