@@ -30,28 +30,41 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 **Summary**: The authors propose object-induced actions with explanations for predictions of an autonomous car, and introduce a new dataset called BDD-OIA, annotated with 21 explanation templates on a set of 4 actions.
 
 11. [Advisable Learning for Self-Driving Vehicles by Internalizing Observation-to-Action Rules](https://openaccess.thecvf.com/content_CVPR_2020/html/Kim_Advisable_Learning_for_Self-Driving_Vehicles_by_Internalizing_Observation-to-Action_Rules_CVPR_2020_paper.html), 2020 </br>
+**Summary**: The paper proposes an approach that leverages human advice to learn vehicle control.
 
 12. [Interpretable safety validation for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9294490), 2020 </br>
+**Summary**: The authors introduce a technique to identify interpretable failures of autonomous vehicles using signal temporal logic expressions in an unprotected left turn and pedestrian crossing scenarios
 
 13. [Autodiscern: Autonomous driving using common sense reasoning](https://arxiv.org/abs/2110.13606), 2021 </br>
+**Summary**: The study introduces AUTO-DISCERN, a system that incorporates commonsense reasoning with answer set programming to automate explainable decision-making for self-driving cars.
 
 14. [Toward explainable and advisable model for self-driving cars](https://onlinelibrary.wiley.com/doi/full/10.1002/ail2.56), 2021 </br>
+**Summary**: Similar to [11], the authors present an approach that leverages human advice to learn vehicle control.
 
 15. [Human-Vehicle Cooperation on Prediction-Level: Enhancing Automated Driving with Human Foresight](https://ieeexplore.ieee.org/abstract/document/9669247?casa_token=6bmn5am8jJYAAAAA:JcnJyCi3anhYmEcKYdgDWnAaD48CJfdetGLcCVTZmD1FC0EhEWTquOaEfmEV62oHsF2KViqB), 2021 </br>
+**Summary**: The authors propose a technique enabling a human driver to provide scene forecasting to an intelligent driving system using a purposeful gaze.
 
 16. [Towards Accountability: Providing Intelligible Explanations in Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9575917?casa_token=z32codFXOBoAAAAA:CNk_iqWA55yViWLjCLnGns6KadoE2GuHsFBp0XWmyUD6VX5-ZL2Tm0e_xcZdru82bU9E1dk3), 2021 </br>
+**Summary**: The study propose a tree-based representation and use human evaluation in a variety of driving scenarios and generate Why, Why Not, What If, and What explanations for driving situations.
 
 17. [Interpretable End-to-End Urban Autonomous Driving With Latent Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9346000?casa_token=QVOn9WP5hT4AAAAA:AouY-wnaPy3yR7RBO4ZfSnJQsOAENMgIh3CgwIOvRfFJFq3JfVw_3QC5ihT9zRqaHFhvJvVC), 2021 </br>
+**Summary**: The study introduces a sequential latent environment model learned with RL and a probabilistic graphical model-based approach that can interpret autonomous vehicles’ actions. 
 
 18. [Learning Interpretable End-to-End Vision-Based Motion Planning for Autonomous Driving with Optical Flow Distillation](https://ieeexplore.ieee.org/abstract/document/9561334?casa_token=-b497m0SHTAAAAAA:dIoFX2iTBU3wxrNTYO_1DLVLnSJXZiPd9luQDBp6hg-av1ROQ7I_j67jvDLyd--p3Rl4mKV7), 2021 </br>
+**Summary**: The authors propose an interpretable end-to-end vision-based motion planning (IVMP) to interpret the underlying actions of an intelligent vehicle.
 
 19. [Interpretable Goal-based Prediction and Planning for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9560849?casa_token=knn0E8YqAN8AAAAA:GnWJPKpGZsO4hY_2ieqDAo_QLhCnsyNtdi36Rk-27Kg_qmiaEs4th26vblnZDZovXidD7o7X), 2021 </br>
+**Summary**: The authors present an integrated prediction and planning system for autonomous driving that uses rational inverse planning and Monte Carlo Tree Search to recognise the goals of other vehicles and plan the motion maneeuvers of the autonomous car.
 
 20. [Uncovering Interpretable Internal States of Merging Tasks at Highway On-Ramps for Autonomous Driving Decision-Making](https://ieeexplore.ieee.org/abstract/document/9512609?casa_token=SGeImCnfH4sAAAAA:JFHQAbCjUkn2up7YD5VuVTiljQqmrZszN0qCvvVfSJYredH69acbJZi-UFewk-L6rHNhGlbe), 2021 </br>
+**Summary**: The authors approach lane merging task as a dynamic process and integrate internal states into joint Hidden Markov Model (HMM) and Gaussian Mixture Regression (GMM).
 
 21. [Interpretable Goal Recognition in the Presence of Occluded Factors for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9635903?casa_token=KY7slSt4mFsAAAAA:tYdC2LG8vEaihQw4z4joDSuHC7AtjtGQcu75kdIx8NldmYwxiKAFdYUEGm1ke4cB4A8rYpSV), 2021 </br>
+**Summary**: The study introduces an interpretable inverse-planning algorithm for joint goal and occluded factor inference, and show how it can be integrated into Monte Carlo Tree Search action selection.
 
-22. [GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9636279?casa_token=klfgL_8NLVMAAAAA:JY1CZ2Te_1aq7whGbjJDw1vxStmq_JqrXaLMgl1b6PKDAOHvGYBnIGQa0BadmiM0TMWf-AY5), 2021 </br> </br>
+22. [GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9636279?casa_token=klfgL_8NLVMAAAAA:JY1CZ2Te_1aq7whGbjJDw1vxStmq_JqrXaLMgl1b6PKDAOHvGYBnIGQa0BadmiM0TMWf-AY5), 2021 </br>
+**Summary**: The authors present Goal Recognition with Interpretable Trees (GRIT), a goal recognition system that attain safety and interpretability
+objectives using decision trees trained on vehicle trajectory data.
 
 ### Reference
 
