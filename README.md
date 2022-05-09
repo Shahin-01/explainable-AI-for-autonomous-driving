@@ -51,7 +51,7 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 
 21. [Interpretable Goal Recognition in the Presence of Occluded Factors for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9635903?casa_token=KY7slSt4mFsAAAAA:tYdC2LG8vEaihQw4z4joDSuHC7AtjtGQcu75kdIx8NldmYwxiKAFdYUEGm1ke4cB4A8rYpSV), 2021 </br>
 
-22. [GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9636279?casa_token=klfgL_8NLVMAAAAA:JY1CZ2Te_1aq7whGbjJDw1vxStmq_JqrXaLMgl1b6PKDAOHvGYBnIGQa0BadmiM0TMWf-AY5), 2021 </br>
+22. [GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9636279?casa_token=klfgL_8NLVMAAAAA:JY1CZ2Te_1aq7whGbjJDw1vxStmq_JqrXaLMgl1b6PKDAOHvGYBnIGQa0BadmiM0TMWf-AY5), 2021 </br> </br>
 
 
 
