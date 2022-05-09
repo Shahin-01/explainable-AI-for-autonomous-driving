@@ -64,4 +64,4 @@ Detailed analysis and discussion of these studies is available is the following 
      year={2021}
 }
 
-The article can be viewed [here](https://arxiv.org/abs/2112.11561)
+The article can be viewed [here.](https://arxiv.org/abs/2112.11561)
