@@ -55,7 +55,7 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 
 ### Reference
 
-Detailed analysis and discussion of these studies is available is the following [article](https://arxiv.org/abs/2112.11561):
+Detailed analysis and discussion of these studies is available is the following article:
      
      @article{atakishiyev2021explainable,
      title={Explainable artificial intelligence for autonomous driving: An overview and guide for future research directions},
@@ -63,3 +63,5 @@ Detailed analysis and discussion of these studies is available is the following 
      journal={arXiv preprint arXiv:2112.11561},
      year={2021}
 }
+
+The article can be viewed [here](https://arxiv.org/abs/2112.11561)
