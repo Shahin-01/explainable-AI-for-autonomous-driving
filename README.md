@@ -53,6 +53,8 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 
 22. [GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9636279?casa_token=klfgL_8NLVMAAAAA:JY1CZ2Te_1aq7whGbjJDw1vxStmq_JqrXaLMgl1b6PKDAOHvGYBnIGQa0BadmiM0TMWf-AY5), 2021 </br>
 
+
+
 Detailed analysis and discussion of these studies is available is the following article:
 
 S. Atakishiyev, M. Salameh, H. Yao, R. Goebel. [Explainable artificial intelligence for autonomous driving: An overview and guide for future research directions](https://arxiv.org/abs/2112.11561), arXiv, 2021 </br> 
