@@ -26,7 +26,7 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 **Summary**: The authors propose conditional imitation learning with an end-to-end visual attention model that identifies parts of images that have a higher influence on predictions.
 
 9. [“I’d like an Explanation for That!”Exploring Reactions to Unexpected Autonomous Driving](https://dl.acm.org/doi/abs/10.1145/3379503.3403554?casa_token=mZfjuDrG404AAAAA:pFmM2MD1wiEGbck3CRIMSjdLbhZgxOEoY4Y4HxKyBcbKFfBOpSx1HVeQSUgsU9dHSQtZBUywjZ0P), 2020 </br>
-**Summary**: The authors explore situations where explanations are needed and what relevant methods are for these situations.
+**Summary**: The authors explore situations where explanations are needed and what relevant methods are for possible these situations.
 
 10. [Explainable Object-Induced Action Decision for Autonomous Vehicles](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Explainable_Object-Induced_Action_Decision_for_Autonomous_Vehicles_CVPR_2020_paper.html), 2020 </br>
 **Summary**: The authors propose object-induced actions with explanations for predictions of an autonomous car, and introduce a new dataset called BDD-OIA, annotated with 21 explanation templates on a set of 4 actions.
