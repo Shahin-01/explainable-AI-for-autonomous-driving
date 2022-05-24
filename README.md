@@ -29,7 +29,7 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 **Summary**: The authors explore situations where explanations are needed and what relevant methods are possible for these situations.
 
 10. [Explainable Object-Induced Action Decision for Autonomous Vehicles](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Explainable_Object-Induced_Action_Decision_for_Autonomous_Vehicles_CVPR_2020_paper.html), 2020 </br>
-**Summary**: The authors propose object-induced actions with explanations for predictions of an autonomous car, and introduce a new dataset called BDD-OIA, annotated with 21 explanation templates on a set of 4 actions.
+**Summary**: The authors propose object-induced actions with explanations for predictions of autonomous cars, and introduce a new dataset called BDD-OIA, annotated with 21 explanation templates on a set of 4 actions.
 
 11. [Advisable Learning for Self-Driving Vehicles by Internalizing Observation-to-Action Rules](https://openaccess.thecvf.com/content_CVPR_2020/html/Kim_Advisable_Learning_for_Self-Driving_Vehicles_by_Internalizing_Observation-to-Action_Rules_CVPR_2020_paper.html), 2020 </br>
 **Summary**: The paper proposes an approach that leverages human advice to learn vehicle control.
