@@ -70,7 +70,7 @@ objectives using decision trees trained on vehicle trajectory data.
 
 ### Reference
 
-Detailed analysis and discussion of these studies is available is the following article:
+Detailed analysis and discussion of these studies is available are the following article:
      
      @article{atakishiyev2021explainable,
      title={Explainable artificial intelligence for autonomous driving: An overview and guide for future research directions},
