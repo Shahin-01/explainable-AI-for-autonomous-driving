@@ -1,4 +1,4 @@
-# Explainable AI approaches for Autonomous Driving
+# Explainable AI-based approaches for autonomous driving
 In this repository, we provide a compendium of state-of-the-art studies focused on explainable AI (XAI) approaches for autonomous driving. These studies are primarily about developing explainable convolutional neural network (CNN), reinforcement learning (RL), and recurrent neural  networks (RNN)-based AI architectures for autonomous driving. 
 
 1. [VisualBackProp: visualizing CNNs for autonomous driving](https://arxiv.org/abs/1611.05418v1), 2016 </br>
