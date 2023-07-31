@@ -65,12 +65,12 @@ In this repository, we provide a compendium of state-of-the-art studies focused 
 **Summary**: The study introduces an interpretable inverse-planning algorithm for joint goal and occluded factor inference, and show how it can be integrated into Monte Carlo Tree Search action selection.
 
 22. [GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9636279?casa_token=klfgL_8NLVMAAAAA:JY1CZ2Te_1aq7whGbjJDw1vxStmq_JqrXaLMgl1b6PKDAOHvGYBnIGQa0BadmiM0TMWf-AY5), 2021 </br>
-**Summary**: The authors present Goal Recognition with Interpretable Trees (GRIT), a goal recognition system that attain safety and interpretability
+**Summary**: The authors present Goal Recognition with Interpretable Trees (GRIT), a goal recognition system that attains safety and interpretability
 objectives using decision trees trained on vehicle trajectory data.
 
 ### Reference
 
-Detailed analysis and discussion of these studies is available are the following article:
+Detailed analysis and discussion of these studies are available are in the following article:
      
     @article{atakishiyev2021explainable,
     title={Explainable Artificial Intelligence for Autonomous Driving: A Comprehensive Overview and Field Guide for Future Research Directions},
