@@ -1,5 +1,5 @@
 # Explainable AI for Autonomous Vehicles
-In this repository, we provide a compendium of explainable AI (XAI)-based approaches for autonomous driving. These studies are primarily about developing XAI approaches for autonomous driving with vision-based, reinforcement learning (RL), logic-based, and user-study based approaches.
+In this repository, we provide a compendium of explainable AI (XAI)-based approaches for autonomous driving. These studies are primarily about developing XAI approaches for autonomous driving with vision-based, reinforcement learning (RL), logic-based, and user-study-based approaches.
 
 1. [VisualBackProp: visualizing CNNs for autonomous driving](https://arxiv.org/abs/1611.05418v1), 2016 </br>
 **Summary**: This study explains predictions of CNNs in end-to-end autonomous driving by showing which sets of pixels of an input image contribute to the CNNs' predictions. 
@@ -70,7 +70,7 @@ objectives using decision trees trained on vehicle trajectory data.
 
 ### Reference
 
-Detailed analysis and discussion of these studies are available are in the following article:
+Detailed analysis and discussion of these studies are available in the following article:
      
     @article{atakishiyev2021explainable,
     title={Explainable Artificial Intelligence for Autonomous Driving: A Comprehensive Overview and Field Guide for Future Research Directions},
