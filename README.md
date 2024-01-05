@@ -1,11 +1,11 @@
 # Explainable AI (XAI) for Autonomous Vehicles
 In this repository, we provide a compendium of explainable AI (XAI)-based approaches for autonomous driving. These studies are primarily about developing XAI approaches for autonomous driving with vision-based, reinforcement learning (RL), logic-based, and user-study-based approaches.
 
-[GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9636279?casa_token=klfgL_8NLVMAAAAA:JY1CZ2Te_1aq7whGbjJDw1vxStmq_JqrXaLMgl1b6PKDAOHvGYBnIGQa0BadmiM0TMWf-AY5), 2021 </br>
+• [GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9636279?casa_token=klfgL_8NLVMAAAAA:JY1CZ2Te_1aq7whGbjJDw1vxStmq_JqrXaLMgl1b6PKDAOHvGYBnIGQa0BadmiM0TMWf-AY5), 2021 </br>
 **Summary**: The authors present Goal Recognition with Interpretable Trees (GRIT), a goal recognition system that attains safety and interpretability
 objectives using decision trees trained on vehicle trajectory data.
 
-[Interpretable Goal Recognition in the Presence of Occluded Factors for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9635903?casa_token=KY7slSt4mFsAAAAA:tYdC2LG8vEaihQw4z4joDSuHC7AtjtGQcu75kdIx8NldmYwxiKAFdYUEGm1ke4cB4A8rYpSV), 2021 </br>
+• [Interpretable Goal Recognition in the Presence of Occluded Factors for Autonomous Vehicles](https://ieeexplore.ieee.org/abstract/document/9635903?casa_token=KY7slSt4mFsAAAAA:tYdC2LG8vEaihQw4z4joDSuHC7AtjtGQcu75kdIx8NldmYwxiKAFdYUEGm1ke4cB4A8rYpSV), 2021 </br>
 **Summary**: The study introduces an interpretable inverse-planning algorithm for joint goal and occluded factor inference, and shows how it can be integrated into Monte Carlo Tree Search action selection.
 
 [Uncovering Interpretable Internal States of Merging Tasks at Highway On-Ramps for Autonomous Driving Decision-Making](https://ieeexplore.ieee.org/abstract/document/9512609?casa_token=SGeImCnfH4sAAAAA:JFHQAbCjUkn2up7YD5VuVTiljQqmrZszN0qCvvVfSJYredH69acbJZi-UFewk-L6rHNhGlbe), 2021 </br>
