@@ -1,5 +1,5 @@
 # Explainable AI (XAI) for Autonomous Vehicles
-In this repository, we provide a compendium of explainable AI (XAI)-based approaches for autonomous driving. These studies are primarily about developing XAI approaches for autonomous driving with vision-based, reinforcement learning (RL), logic-based, and user-study-based approaches.
+This repository provides a compendium of explainable AI (XAI)-based approaches for autonomous driving. These studies are primarily about developing XAI approaches for autonomous driving with vision-based, reinforcement learning (RL), logic-based, and user-study-based approaches.
 
 • [GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9636279?casa_token=klfgL_8NLVMAAAAA:JY1CZ2Te_1aq7whGbjJDw1vxStmq_JqrXaLMgl1b6PKDAOHvGYBnIGQa0BadmiM0TMWf-AY5), 2021 </br>
 **Summary**: The authors present Goal Recognition with Interpretable Trees (GRIT), a goal recognition system that attains safety and interpretability
