@@ -78,11 +78,12 @@ objectives using decision trees trained on vehicle trajectory data.
 
 Detailed analysis and discussion of these studies are available in the following article:
      
-    @article{atakishiyev2021explainable,
-    title={Explainable Artificial Intelligence for Autonomous Driving: A Comprehensive Overview and Field Guide for Future Research Directions},
+    @article{atakishiyev2024explainable,
+    title={Explainable artificial intelligence for autonomous driving: A comprehensive overview and field guide for future research directions},
     author={Atakishiyev, Shahin and Salameh, Mohammad and Yao, Hengshuai and Goebel, Randy},
-    journal={arXiv preprint arXiv:2112.11561},
-    year={2021}
+    journal={IEEE Access},
+    year={2024},
+    publisher={IEEE}
     }
 
-The article can be viewed [here.](https://arxiv.org/abs/2112.11561)
+The article can be viewed [here.](https://ieeexplore.ieee.org/document/10604830)
